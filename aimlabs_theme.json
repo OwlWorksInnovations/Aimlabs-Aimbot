@@ -1,0 +1,62 @@
+{
+    "name": "NewVisualTheme",
+    "visuals": {
+        "grayboxPresetName": "Custom",
+        "grayboxMat": "Default",
+        "grayboxR": 1.0,
+        "grayboxG": 1.0,
+        "grayboxB": 1.0,
+        "sphereboxTexture": "",
+        "sphereboxThumbnail": "",
+        "overrideCreatorStudio": false,
+        "disableShadows": true,
+        "grayboxCustomSettings": [
+            "{\"protocolVersion\":1,\"sceneName\":\"Graybox\",\"colorMode\":2,\"settings\":[{\"textureName\":\"Solid Color\",\"metallic\":1.0,\"smoothness\":0.0,\"tiling\":0.5,\"r\":0.0,\"g\":0.0,\"b\":0.0,\"a\":1.0,\"enabled\":true},{\"textureName\":\"Dark Nebula\",\"metallic\":0.0,\"smoothness\":0.5,\"tiling\":1.0,\"r\":0.4232887,\"g\":0.418844253,\"b\":0.409955382,\"a\":1.0,\"enabled\":true},{\"textureName\":\"\",\"metallic\":0.808,\"smoothness\":0.919,\"tiling\":1.0,\"r\":0.754717,\"g\":0.754717,\"b\":0.754717,\"a\":1.0,\"enabled\":true},{\"textureName\":\"\",\"metallic\":0.916,\"smoothness\":0.956,\"tiling\":1.0,\"r\":0.6603774,\"g\":0.6603774,\"b\":0.6603774,\"a\":1.0,\"enabled\":true}]}",
+            "",
+            "",
+            ""
+        ]
+    },
+    "targets": {
+        "TargetColor": {
+            "r": 0.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "TargetSkinType": 8,
+        "AITextureName": "None",
+        "Metalicness": 0.0,
+        "Smoothness": 0.0
+    },
+    "targetsHit": {
+        "TargetColor": {
+            "r": 0.21960784494876862,
+            "g": 0.33725491166114809,
+            "b": 0.7843137383460999,
+            "a": 1.0
+        },
+        "TargetSkinType": 4,
+        "AITextureName": "",
+        "Metalicness": 0.0,
+        "Smoothness": 0.0
+    },
+    "targetsMiss": {
+        "TargetColor": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+        },
+        "TargetSkinType": 3,
+        "AITextureName": "",
+        "Metalicness": 0.0,
+        "Smoothness": 0.0
+    },
+    "targetCosmetics": [
+        {
+            "itemName": "Sphere",
+            "cosmeticID": "bd8cfe1ad2869c74582eca3dcd151fad"
+        }
+    ]
+}

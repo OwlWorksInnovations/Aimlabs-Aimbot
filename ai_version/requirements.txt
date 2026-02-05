@@ -1,0 +1,10 @@
+# Requirements for AMD GPU with DirectML (Windows)
+# This is the recommended setup for Windows + AMD GPU
+
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+keyboard>=0.13.5
+pywin32>=305
+dxcam>=0.0.5
+onnx==1.15.0
