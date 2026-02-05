@@ -1,6 +1,8 @@
 # Aimlabs Aimbot (NEW) (PIXEL BOT) (HUMAN MADE)
 Changed to a color bot which is much faster and code is much better. Code is made only for spidershot. Gridshot or others will confuse it. Tracking might work. I plan on doing heavy research into vision models because using yolo is too slow and I think that training my own neural network from scratch will be better.
 
+https://github.com/user-attachments/assets/44f52fe1-0732-4764-90d9-22a93bca8d86
+
 The project includes the following features
 - Amazingly fast screen capture using dxcam (easily 144fps)
 - Color detection
